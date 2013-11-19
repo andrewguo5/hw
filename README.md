@@ -1,7 +1,7 @@
 hw
 ==
 
-
-Andrew Guo
-APCS Period 9
-Brown Mykolyk
+\n\n
+Andrew Guo \n
+APCS Period 9 \n 
+Brown Mykolyk \n 
